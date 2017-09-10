@@ -56,9 +56,8 @@ p {
 ```
 
 Le CSS (Cascading Style Sheets) est un **langage hiérarchique**, en cascade. 
-- Les styles Inline sont prioritaires par rapport aux styles Internes, qui le sont eux-même sur les styles externes.
-  - Les styles définis en derniers sont prioritaires sur ceux définis en amont.
-    - Les styles définis de la manière la plus précise sont prioritaires sur ceux définis de manière générale.
+- Les styles définis en derniers sont prioritaires sur ceux définis en amont.
+  - Les styles définis de la manière la plus précise sont prioritaires sur ceux définis de manière générale.
    
 Exemple : 
 
