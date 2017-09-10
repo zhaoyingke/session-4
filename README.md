@@ -63,13 +63,13 @@ Exemple :
 
 ```css
 p {
-  color: red; // Les paragraphes sont écrits en rouge
+  color: red; /* Les paragraphes sont écrits en rouge */
 }
 article p {
-  color: black; // Les paragraphes dans les balises articles sont écrits en noir
+  color: black; /* Les paragraphes dans les balises articles sont écrits en noir */
 }
 p {
-  color: blue; // Les autres paragraphes sont écrits en bleur
+  color: blue; /* Les autres paragraphes sont écrits en bleu */
 }
 ```
 
