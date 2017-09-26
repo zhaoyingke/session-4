@@ -1,0 +1,68 @@
+* {
+	box-sizing: border-box;
+}
+
+html, body {
+	margin: 0;
+}
+
+header, footer {
+
+}
+
+.centered {
+
+}
+
+header .subtitle {
+
+}
+
+h1 {
+
+}
+
+ul {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+ul li {
+	width: 50%;
+}
+
+main {
+
+}
+
+section {
+
+}
+
+h2 {
+
+}
+
+h3 {
+
+}
+
+p {
+
+}
+
+.details {
+
+}
+
+.object {
+
+}
+
+.object:after {
+	content: " | ";
+}
+
+footer h2 {
+
+}
