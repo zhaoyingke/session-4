@@ -92,7 +92,7 @@ Pour importer des polices particulières, suivre les instructions sur le site [G
 - Italique : `font-style: italic, oblique, normal;`
 - Soulignement : `font-decoration: underline, overline, line-through;`
 - Petites capitales : `font-variant: small-caps;`
-- Capitales : `font-transform: uppercase, lowercase, capitalize;`
+- Capitales : `text-transform: uppercase, lowercase, capitalize;`
 - Alignement: `text-align: left, right, center;`
 - Hauteur de ligne: `line-height: 24px;`
 - Indentation: `text-indent: 54px;`
