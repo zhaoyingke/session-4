@@ -6,13 +6,13 @@ Styles et mise en forme
 - [ ] Forker ce projet dans votre espace personnel sur Github
 - [ ] Cloner le fork dans Github Desktop
 
-Vous allez travailler sur le fichier styles.css, qui contiendra tous les styles du site internet composé de index.html, et des pages situées dans /pages. Le fichier styles.css contient déjà des styles pour gérer le positionnement des éléments.
+Vous allez travailler sur le fichier styles.css, qui contiendra tous les styles du CV composé de index.html. Le fichier styles.css contient déjà la structure des sélecteurs CSS dont vous aurez besoin. Vous pouvez cependant la modifier.
 
-- [ ] En utilisant au maximum la liste de propriétés CSS ci-dessous, et en utilisant les couleurs et les polices de votre choix, modifiez la feuille de styles générale du site.
+- [ ] En utilisant au maximum la liste de propriétés CSS ci-dessous, et en utilisant les couleurs et les polices de votre choix, modifiez la feuille de styles générale du CV.
 
 Celui-ci doit s'approcher au maximum du rendu suivant : 
 
-![]()
+![preview.png](preview.png)
 
 > Pensez à "aérer" votre code en sautant des lignes et en créant des indentations. Cela ne modifie pas le rendu et permet une meilleure lisibilité.
 
@@ -77,6 +77,8 @@ p {
 ```
 
 D'une manière générale, on écrira les styles sur des feuilles **externes** et on s'arrangera pour écrire le moins de code possible. Les styles généraux de façon générale, et les choses les plus précises de manière précise.
+
+On désigne une balise par son nom, une classe en la précédant d'un point, un identifiant en le précédant d'un dièze.
 
 ## Les propriétés CSS
 
